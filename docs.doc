@@ -1,0 +1,10 @@
+The application is implemented in Go.
+Test coverages are provided. See test.txt.
+Result of sammple run is at test.txt
+Design:
+  main.go: main program
+  movies.go: provide the data structure for movies, ingest functionality from json, 
+    and compute recommended movies
+  algorithm: consine similarity is used to compute the similarty of two vectors of likes
+  sparse.go: convert an array to a vector
+
