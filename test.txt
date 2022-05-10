@@ -25,6 +25,6 @@ jk@jk-HP:~/dev/recommendation-challenge-xopjds$ go test -v
 PASS
 ok  	jk.com/movies	0.037s
 jk@jk-HP:~/dev/recommendation-challenge-xopjds$ ./movies 
-2022/04/30 16:14:04 Hello Selfbook!
+2022/05/10 13:43:22 Hello Movie Recommendation System!
 map[5:Seven (Se7en) (1995) 6:Usual Suspects, The (1995) 9:Braveheart (1995) 10:Taxi Driver (1976) 12:Apollo 13 (1995) 13:Batman Forever (1995) 14:Desperado (1995) 17:Strange Days (1995) 18:Clerks (1994) 20:Star Wars (1977) 23:Pulp Fiction (1994) 24:Shawshank Redemption, The (1994) 26:Forrest Gump (1994) 27:Lion King, The (1994) 29:Carlito's Way (1993) 30:Fugitive, The (1993) 32:Jurassic Park (1993) 34:True Romance (1993) 37:Dances with Wolves (1990) 38:Silence of the Lambs, The (1991) 39:Fargo (1996) 42:Rock, The (1996) 44:Striptease (1996) 45:Independence Day (ID4) (1996) 46:Godfather, The (1972) 47:Sound of Music, The (1965) 48:Die Hard (1988) 49:Fish Called Wanda, A (1988) 51:Dirty Dancing (1987) 53:Platoon (1986) 55:Top Gun (1986) 57:Monty Python and the Holy Grail (1974) 59:Empire Strikes Back, The (1980) 60:Raiders of the Lost Ark (1981) 61:Brazil (1985) 62:Aliens (1986) 65:Apocalypse Now (1979) 67:GoodFellas (1990) 70:Psycho (1960)]
 

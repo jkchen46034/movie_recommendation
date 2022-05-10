@@ -6,7 +6,7 @@ import (
 )
 
 func main() {
-	log.Printf("Hello Selfbook!")
+	log.Printf("Hello Movie Recommendation System!")
 
 	threshold := 40
 	count_movies := 70
